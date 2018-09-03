@@ -1,5 +1,4 @@
 FROM alpine:latest
-MAINTAINER Matheus Fidelis <msfidelis01@gmail.com>
 
 RUN apk add --no-cache memcached
 

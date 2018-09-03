@@ -1,5 +1,4 @@
 FROM jenkins:latest
-MAINTAINER Matheus Fidelis <msfidelis01@gmail.com>
 
 VOLUME /var/jenkins_home
 

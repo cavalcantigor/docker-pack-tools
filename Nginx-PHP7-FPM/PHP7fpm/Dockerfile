@@ -1,5 +1,4 @@
 FROM php:7.2.1-fpm
-MAINTAINER Matheus Fidelis <msfidelis01@gmail.com>
 
 RUN echo 'deb http://httpredir.debian.org/debian jessie contrib' >> /etc/apt/sources.list
 

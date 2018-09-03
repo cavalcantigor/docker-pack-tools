@@ -1,5 +1,4 @@
 FROM ubuntu:16.04
-MAINTAINER <msfidelis01@gmail.com>
 
 RUN touch /var/log/cron.log
 
