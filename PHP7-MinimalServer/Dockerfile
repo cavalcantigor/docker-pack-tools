@@ -1,7 +1,5 @@
 FROM alpine:3.3
 
-MAINTAINER Matheus Fidelis <msfidelis01@gmail.com>
-
 RUN apk update ;
 RUN apk add --no-cache  \
     php7-xcache php7-intl php7-json php7-curl \

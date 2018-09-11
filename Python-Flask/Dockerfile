@@ -1,5 +1,4 @@
 FROM ubuntu:16.04
-MAINTAINER Matheus Fidelis <msfidelis01@gmail.com>
 
 RUN apt-get update -y
 RUN apt-get install python-pip python-dev build-essential -y
